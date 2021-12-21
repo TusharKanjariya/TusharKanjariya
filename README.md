@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Tushar Kanjariya. I am a Full-Stack Developer and Graphic Designer.
+#### I am Tushar Kanjariya. I am working as a Full-Stack Developer and Graphic Designer and UI/UX Designer.
 
 - Web : [https://tusharkanjariya.github.io/portfolio/](https://tusharkanjariya.github.io/portfolio/)
 - LinkedIn Profile : [https://www.linkedin.com/in/tusharkanjariya/](https://www.linkedin.com/in/tusharkanjariya/)
