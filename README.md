@@ -19,3 +19,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TusharKanjariya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TusharKanjariya/1" alt="Recent Article 1">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TusharKanjariya/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TusharKanjariya/2" alt="Recent Article 2">
+
+---
+
+<a target="_blank" href="https://ko-fi.com/tusharkanjariya"><img width="490" height="99" alt="support_me_on_kofi_red" src="https://github.com/user-attachments/assets/236552a2-0020-42d7-907a-fab7a692ef2e" /></a>
